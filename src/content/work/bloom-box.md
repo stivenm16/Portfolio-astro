@@ -1,23 +1,23 @@
 ---
-title: Bloom Box
+title: Giffy
 publishDate: 2019-12-01 00:00:00
-img: /assets/stock-2.jpg
+img: /assets/giffy.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   We paired with a cutting-edge music API and a team of horticulturalists
   to build AI-generated playlists that maximize houseplant health.
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - React
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Giffy is a dynamic and user-centric web application crafted to elevate the gif-searching experience to new heights. At its core, Giffy harnesses the power of a sophisticated API to seamlessly retrieve an expansive collection of gifs, catering to users' preferences and ensuring a delightful exploration journey into the world of animated content.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+With a streamlined interface and intuitive design, Giffy invites users to embark on an adventure of endless gif discovery. The application's primary function revolves around a user-friendly search mechanism that empowers individuals to input their desired keywords, phrases, or emotions into the search bar. Leveraging this input, Giffy connects with the API, curating a diverse and vast selection of gifs in real-time, instantly aligning with the user's query.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+The application's agility and responsiveness provide users with an immersive and personalized experience. As users input their search queries, Giffy rapidly generates results, presenting a visually engaging array of gifs that seamlessly adapt to various screens and devices. This responsive design ensures accessibility and a consistent experience, regardless of the user's device or screen size.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Beyond its search capabilities, Giffy fosters user engagement by enabling effortless gif-sharing functionalities. Users can easily share their favorite discoveries across multiple platforms, fostering a community-driven environment for gif enthusiasts to exchange, communicate, and express themselves through animated content.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+The application's sleek and modern architecture optimizes the gif-searching process, ensuring swift access to an extensive library of gifs. Giffy's reliance on the API allows for continuous updates and a diverse range of gifs, ensuring users have access to the latest trends, classic favorites, and niche interests.
+
+Giffy stands as a testament to its commitment to simplicity, accessibility, and innovation in gif exploration. By leveraging a powerful API, it transforms the gif-searching experience into an interactive and dynamic journey, offering users an effortless means to discover, share, and immerse themselves in the fascinating world of animated content.

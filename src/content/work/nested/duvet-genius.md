@@ -1,22 +1,25 @@
 ---
-title: Duvet Genius
+title: Tenis League
 publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
+img: /assets/tenis-league.jpg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   We developed a virtual showcase for the softest bedding imaginable.
 tags:
-  - Design
-  - Dev
-  - Branding
+  - Next.js
+  - Prisma
+  - TypeScript
+  - Tailwind
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+The Tennis League Management Application is a sophisticated and comprehensive web platform designed to bring together tennis aficionados and tournament organizers under one intuitive, full-stack solution. Developed using Next.js and Prisma, this application seamlessly integrates robust functionalities, authentication mechanisms, and role-based access control to provide a comprehensive and secure tennis league management experience.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+At its core, this application boasts a user-friendly interface that empowers tennis enthusiasts to register with ease and engage actively within diverse tennis leagues. Leveraging its authentication system, users can create personalized accounts, enabling them to explore various tournaments, leagues, and match schedules. Additionally, the platform implements role-based access, ensuring that administrators possess exclusive rights to manage and oversee the complete ecosystem, including tournament creation, user management, and tournament updates, via a dedicated administrative panel.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+One of its key highlights is the Tournament Management Module, a powerful administrative feature that facilitates the effortless creation, modification, and organization of tournaments. Tournament organizers wield the capability to update tournament details, such as match timings, court allocations, and player rosters, streamlining the overall tournament coordination process.
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Moreover, the system's User Management functionalities provide administrators with granular control over user profiles. This includes the ability to update user information, manage roles, and maintain an organized user base, ensuring the platform's integrity and user experience.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+The platform's full-stack nature enables seamless interactions between the front-end user interface and a robust back-end infrastructure. Leveraging Prisma's capabilities, the application manages and interacts with the database efficiently, offering scalability and reliability. Its modern architecture and use of Next.js empower the application to deliver a responsive, dynamic, and interactive experience to users across devices and screen sizes.
+
+With its comprehensive feature set, inclusive of user-friendly registration, role-based authentication, tournament management, and user administration, the Tennis League Management Application serves as a hub for tennis enthusiasts and tournament organizers alike. By blending technology with the love for the sport, it enriches the tennis community's experience by fostering engagement, enhancing accessibility, and facilitating seamless tournament management.
