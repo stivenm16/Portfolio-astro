@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 import ContactCTA from '../components/ContactCTA.astro';
 import Hero from '../components/Hero.astro';
+import Pill from '../components/Pill.astro';
 ---
 
 <BaseLayout title="About | Kevin Hernandez" description="About Kevin Hernandez Lorem Ipsum">
@@ -15,7 +16,7 @@ import Hero from '../components/Hero.astro';
 				<img
 					width="1553"
 					height="873"
-					src="/assets/at-work.jpg"
+					src="/assets/web-development.png"
 					alt="Kevin Hernandez at work with a colleague"
 				/>
 			</Hero>
@@ -40,8 +41,21 @@ What sets me apart is my relentless pursuit of staying ahead of technological ad
 			</section>
 			<section>
 				<h2 class="section-title">Skills</h2>
-				<div class="content">
-					<p>officia unde omnis</p>
+				<div class="skills">
+					<Pill> React.js</Pill>
+					<Pill> React Native</Pill>
+					<Pill> Next.js</Pill>
+					<Pill> Redux</Pill>
+					<Pill> Node.js</Pill>
+					<Pill> Nest.js</Pill>
+					<Pill> Angular</Pill>
+					<Pill> Single-spa</Pill>
+					<Pill> Jest / Testing-library</Pill>
+					<Pill> Docker</Pill>
+					<Pill> SQL</Pill>
+					<Pill> TypeORM / Sequelize</Pill>
+					<Pill> Apollo Client / Apollo Server</Pill>
+					<Pill> AWS</Pill>
 				</div>
 			</section>
 		</main>
@@ -51,6 +65,14 @@ What sets me apart is my relentless pursuit of staying ahead of technological ad
 </BaseLayout>
 
 <style>
+
+	.skills {
+		 display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+		gap: .5rem;
+
+	}
 	.about {
 		display: flex;
 		flex-direction: column;
